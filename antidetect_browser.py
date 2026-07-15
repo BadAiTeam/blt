@@ -215,8 +215,8 @@ logger.info(f"antidetect_browser {MODULE_VERSION} loaded from {_MODULE_FILE}")
 
 # Base URL — must end at /proxies. The path segment (range or named list)
 # is appended by _build_proxy_api_url().
-PROXY_API_BASE_URL = 'https://nodejsclusters-213178-0.cloudclusters.net/api/external/proxies'
-PROXY_API_KEY = 'pm_54cae123bc12069d2bb802612787ed7e'
+PROXY_API_BASE_URL = 'https://nodejsclusters-213469-0.cloudclusters.net/api/external/proxies'
+PROXY_API_KEY = 'pm_e1ccebcc0406a223090f837f7df86eb3'
 PROXY_API_DEFAULT_FORMAT = 'txt'
 
 # Default range: fetch proxies #1 through #50.
@@ -240,7 +240,7 @@ PROXY_API_URL = PROXY_API_BASE_URL
 #         AdsPowerClient handles cases where AdsPower binds to non-default ports
 #         (e.g. 5032 in some Linux container deployments).
 ADSPOWER_DEFAULTS = {
-    'api_key': '0a9a0ceae5ea9e56065395e58ce43ace0092eda5d96b6ecd',
+    'api_key': '2469eb34275a328d205f8c0787f8e8180094bea2545a5c40',
     'mode': 'local',
     'base_url': 'http://localhost',
     'port': 50325,
