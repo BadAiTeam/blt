@@ -240,7 +240,7 @@ PROXY_API_URL = PROXY_API_BASE_URL
 #         AdsPowerClient handles cases where AdsPower binds to non-default ports
 #         (e.g. 5032 in some Linux container deployments).
 ADSPOWER_DEFAULTS = {
-    'api_key': '2469eb34275a328d205f8c0787f8e8180094bea2545a5c40',
+    'api_key': 'e4298e90f68a4866b01efdae2fb9eed90094f2dfa3ba928a',
     'mode': 'local',
     'base_url': 'http://localhost',
     'port': 50325,
