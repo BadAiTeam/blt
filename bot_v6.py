@@ -365,7 +365,7 @@ ADSTERRA_WAIT_FOR_RENDER_S = 3
 # ====================================================================
 # Configuration (tidak diubah)
 # ====================================================================
-TARGET_URL = 'https://globalupdate.2bd.net/'
+TARGET_URL = 'https://go.paid4link.com/sDMKVR'
 BROWSER_X = 0
 BROWSER_Y = 0
 BROWSER_W = 1920
